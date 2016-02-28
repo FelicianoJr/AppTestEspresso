@@ -22,7 +22,7 @@ import static android.support.test.espresso.matcher.ViewMatchers.withId;
  */
 @RunWith(AndroidJUnit4.class)
 @LargeTest
-public class ExpressoInitialTest {
+public class EspressoActivitylTest {
 
     public static final String STRING_TO_BE_TYPED = "Espresso";
 
